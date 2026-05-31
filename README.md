@@ -71,8 +71,13 @@ All those players are/were available to buy in AliExpress and similar online sho
 
 ## Related projects
 
+https://github.com/tytydraco/ffmpeg-atj-patch  
 https://github.com/fdd4s/portable_mp3_player_video_converter_tools  
 https://github.com/fdd4s/shazam-autotag  
+
+## Open Source implementation for all operating systems
+
+https://github.com/tytydraco/ffmpeg-atj-patch  
 
 ## Credits
 
